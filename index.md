@@ -1,8 +1,5 @@
 # Making optifine super-simple to download.
-### Last update:
-Added:
-
-Added support:
+### Versions Supported:
 - 1.12.2
 - 1.13.2
 - 1.15.2
