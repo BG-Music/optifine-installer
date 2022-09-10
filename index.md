@@ -1,8 +1,13 @@
 # Making optifine super-simple to download.
 ### Last update:
-- Faster update checking.
-- Version label.
-- Fixed update auto update checking.
-- Made updates fully automatic.
+Added:
+Added support:
+- 1.12.2
+- 1.13.2
+- 1.15.2
+- 1.18.2
+(More soon)
+
+### Get it [here](https://github.com/Bossgamerteam/optifine-installer)
 ## **THIS IS NOT AN OFFICIAL [OPTIFINE](https://optifine.net) CREATION, IS NOT MADE BY [OPTIFINE](https://optifine.net) IN ANYWAY.**
 ## **ALL IMAGES USED IN THIS APPLACATION IS OWNED BY [OPTIFINE](https://optifine.net).**
