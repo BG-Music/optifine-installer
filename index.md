@@ -16,6 +16,8 @@ Added support:
 - 1.19
 - 1.9
 - 1.8
+- 1.12
+- 1.11
 
 (More soon)
 
