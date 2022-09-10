@@ -1,0 +1,4 @@
+version: v2
+build: test
+password: %devpass%
+user: %devuser%
