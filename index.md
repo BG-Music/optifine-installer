@@ -11,6 +11,10 @@ Added support:
 - 1.16.2
 - 1.16.5
 - 1.17.1
+- 1.19.1
+- 1.19
+- 1.9
+- 1.8
 (More soon)
 
 THIS IS NOT AN OFFICIAL OPTIFINE CREATION, IS NOT MADE BY OPTIFINE IN ANYWAY.
