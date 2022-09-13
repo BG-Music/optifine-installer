@@ -2,4 +2,4 @@ v10
 dev: false
 console: n/a
 sorting: true
-//Editing this won't affect the update checker since it is downloaded/redownloaded everytime the updater is launched.
+//Editing this won't affect the update checker since it's downloaded/redownloaded everytime the updater is launched.
