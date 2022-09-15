@@ -1,3 +1,4 @@
+# Making optifine super-simple to download.
 # Supports:
 - 1.19.2 (Preview)
 - 1.19.2
@@ -40,4 +41,9 @@
 - 1.7.2
 
 
-**THIS IS NOT AN OFFICIAL OPTIFINE CREATION, IS NOT MADE BY OPTIFINE IN ANYWAY.**
+THIS IS NOT AN OFFICIAL OPTIFINE CREATION, IS NOT MADE BY OPTIFINE IN ANYWAY.
+
+### Get it [here](https://github.com/Bossgamerteam/optifine-installer/releases)
+## **THIS IS NOT AN OFFICIAL [OPTIFINE](https://optifine.net) CREATION, IS NOT MADE BY [OPTIFINE](https://optifine.net) IN ANYWAY.**
+## **ALL IMAGES USED IN THIS APPLACATION IS OWNED BY [OPTIFINE](https://optifine.net).**
+
