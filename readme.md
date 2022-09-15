@@ -1,5 +1,8 @@
 # Making optifine super-simple to download.
 # Supports:
+
+#### Supports all public optifine versions!
+
 - 1.19.2 (Preview)
 - 1.19.2
 - 1.19.1
