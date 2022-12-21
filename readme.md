@@ -1,4 +1,4 @@
-# [Webiste](https://optifine-installer.glitch.me/)
+# [Website](https://optifine-installer.glitch.me/)
 # Making optifine super-simple to download.
 # Supports:
 
