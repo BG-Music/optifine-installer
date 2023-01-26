@@ -1,6 +1,8 @@
-v13
+v13.1
 dev: false
 console: n/a
 sorting: true
 newinv: true
+newpath: true
+stable: true
 //Editing this won't affect the update checker since it's downloaded/redownloaded everytime the updater is launched.
