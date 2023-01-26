@@ -4,6 +4,7 @@
 
 #### Supports all public optifine versions!
 
+- 1.19.3
 - 1.19.2 (Preview)
 - 1.19.2
 - 1.19.1
