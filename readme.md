@@ -1,5 +1,10 @@
 # [Website](https://optifine-installer.glitch.me/)
 # Making optifine super-simple to download.
+
+# API:
+https://github.com/Bossgamerteam/optifine-installer/raw/main/Older/[version].jar
+
+
 # Supports:
 
 #### Supports all public optifine versions!
